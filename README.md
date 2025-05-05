@@ -1,9 +1,24 @@
-# *Hi, I'm Stephnora!* 🚀  
-### Python Programmer | Cybersecurity Enthusiast | SOC Analyst | Cloud Security Explorer  
+# *Hi, I'm Stephnora!* 
 
-I am a Security Operations Center (SOC) Analyst, Python Programmer, and Offensive Security Enthusiast passionate about cyber defense, automation, and ethical hacking. My journey from medical studies to tech has been nothing short of transformative, and I love breaking things (ethically) to understand how they work.  
+ 🐍 Python Developer |🎯 Cybersecurity Analyst | 🔐 API Security Specialist | ⚙️ Automation Enthusiast | 🤖 Prompt Engineer
+
+Welcome to my GitHub profile! I specialize in building secure, scalable, and intelligent solutions that bridge the gap between cybersecurity and software development.
 
 ---
+## * Tech stack 
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## *🔹 Skills & Expertise*  
 
